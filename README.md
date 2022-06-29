@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @MercuryLc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 [CSDN BLog Mercury_Lc](https://blog.csdn.net/Mercury_Lc)
+- 🌱 [稀土 Mercury_Lc](https://juejin.cn/user/2221453595389208)
+- 🌱 [Gitee](https://gitee.com/mercurylc)
+- 💞️ Computer System Optimization
+- 📫 mercury_lc#@#163.com
 
-<!---
-MercuryLc/MercuryLc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
