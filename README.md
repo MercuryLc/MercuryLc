@@ -7,6 +7,6 @@
 - 📫 mercury_lc#@#163.com
 
 
-![MercuryLc's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![MercuryLc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercuryLc&count_private=true)
 
 [![MercuryLc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercuryLc)](https://github.com/anuraghazra/github-readme-stats)
