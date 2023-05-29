@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 
 - 👋 Hi, I’m @MercuryLc
 - 🌱 [CSDN BLog Mercury_Lc](https://blog.csdn.net/Mercury_Lc)
