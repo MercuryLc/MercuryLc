@@ -1,12 +1,14 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 
 - 👋 Hi, I’m @MercuryLc
+- 💞️ System Optimization Lab ECNU
+- 🌱 [腾讯云开发者社区](https://cloud.tencent.com/developer/user/4962406)
 - 🌱 [CSDN BLog Mercury_Lc](https://blog.csdn.net/Mercury_Lc)
 - 🌱 [稀土 Mercury_Lc](https://juejin.cn/user/2221453595389208)
 - 🌱 [Gitee](https://gitee.com/mercurylc)
 - 🌱 [Github](https://github.com/MercuryLc)
-- 💞️ Computer System Optimization
 - 📫 mercury_lc#@#163.com
+- 友链：- [LokinLi](https://lokinli.gitee.io/blog/)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
