@@ -8,7 +8,7 @@
 - 🌱 [Gitee](https://gitee.com/mercurylc)
 - 🌱 [Github](https://github.com/MercuryLc)
 - 📫 mercury_lc#@#163.com
-- 友链：- [LokinLi](https://lokinli.gitee.io/blog/)
+<!-- - 友链：- [LokinLi](https://lokinli.gitee.io/blog/) -->
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
