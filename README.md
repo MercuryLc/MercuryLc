@@ -1,6 +1,10 @@
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
+<h1 align="center">Brief introduction, <a href="https://github.com/MercuryLc" target="_blank">Ning</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-- 👋 Hi, I’m @MercuryLc
+<br />
+
+- Hi, I’m @MercuryLc
+
 - 💞️ System Optimization Lab ECNU
 
 - 📫 mercury_lc#@#163.com
@@ -17,11 +21,27 @@
 <!-- ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff) -->
 <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
 
-<p align="center" >  
+## Technical Skills
+
+## Projects & Practical Experience
+
+## Publications
+
+
+## Education & Experience
+
+## Awards & Honors 
+
+
+<p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=MercuryLc&&show_icons=true&theme=radical"/>
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=MercuryLc&&show_icons=true&theme=radical"/>
+    -->
+<img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
   </a>
-  </p>
+</p>
+
+
 
 
 
