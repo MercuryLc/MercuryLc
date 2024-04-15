@@ -5,9 +5,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - Hi, I’m @MercuryLc
 
+‘我在5:20睡觉13:14准时起’
+
 - 💞️ System Optimization Lab ECNU
 
-- 📫 mercury_lc#@#163.com
+- 📫 ningli[dot]sys[at]gmail[dot]com
 <!-- - 友链：- [LokinLi](https://lokinli.gitee.io/blog/) -->
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
