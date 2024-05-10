@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - Hi, I’m @MercuryLc
 
-- 💞️ System Optimization Lab ECNU
+- 💞️ [System Optimization Lab ECNU](solecnugit.github.io/)
 
 - 📫 ningli[dot]sys[at]gmail[dot]com
 
