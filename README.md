@@ -1,15 +1,18 @@
-<h1 align="center">Brief introduction, <a href="https://github.com/MercuryLc" target="_blank">Ning</a> <img
+<h1 align="center">Brief introduction, <a href="https://github.com/MercuryLc" target="_blank">Ning Li</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
+---
 
-- Hi, I’m @MercuryLc
+✨ Hi, I’m Ning Li. I'm lucky to have met you. I'm working on my PhD at East China Normal University (ECNU). 
 
-- 💞️ [System Optimization Lab ECNU](solecnugit.github.io/)
+😺 My research interest is software engineering, especially performance anomaly detection, diagnosis and repair.
+In addition, there are some other points of interest such as synchronous performance optimisation, memory performance evaluation, and microarchitecture performance analysis.
 
-- 📫 ningli[dot]sys[at]gmail[dot]com
+💞️ [System Optimization Lab ECNU](solecnugit.github.io/)
 
-- 🎵 ‘我在5:20睡觉13:14准时起’
+<!-- - 📫 ningli[dot]sys[at]gmail[dot]com
+
+- 🎵 ‘我在5:20睡觉13:14准时起’ -->
 <!-- - 友链：- [LokinLi](https://lokinli.gitee.io/blog/) -->
 
 ## Technical Skills
@@ -41,18 +44,18 @@ Other：
 <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
 
 
-## Projects & Practical Experience
+<!-- ## Projects & Practical Experience
 
 2022 - 2023, Cloud service performance anomaly detection and optimisation.
 
-2021 - 2022, Cloud server performance and quality assessment and evaluation.
+2021 - 2022, Cloud server performance and quality assessment and evaluation. -->
 
 
-## Publications
+<!-- ## Publications
 
 - <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” IEEE Trans. Parallel Distributed Syst. (TPDS) 35(2): 297-309 (2024)
 
-- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023)
+- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023) -->
 
 <!-- - 一种多样化算力的统一性能建模和适应性变更方法及装置,2021
 
@@ -60,11 +63,11 @@ Other：
 
 - 一种支持多种编程语言环境的热点符号解析方法、系统及应用,2023 -->
 
-## Education
+<!-- ## Education
 
 2021 - now, East China Normal University, Software Engineering (Data Science and Engineering)
 
-2017 - 2021, Shandong University of Technology, Software Engineering
+2017 - 2021, Shandong University of Technology, Software Engineering -->
 
 
 
