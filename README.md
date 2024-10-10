@@ -1,7 +1,6 @@
 <h1 align="center">Brief introduction, <a href="https://github.com/MercuryLc" target="_blank">Ning Li</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
----
 
 ✨ Hi, I’m Ning Li. I'm lucky to have met you. I'm working on my PhD at East China Normal University (ECNU). 
 
@@ -9,6 +8,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 In addition, there are some other points of interest such as synchronous performance optimisation, memory performance evaluation, and microarchitecture performance analysis.
 
 💞️ [System Optimization Lab ECNU](solecnugit.github.io/)
+
+🍀 Narration: *Life always offers a second chance, it's called tomorrow. Therefore, don't give up. Luck will come.*
 
 <!-- - 📫 ningli[dot]sys[at]gmail[dot]com
 
