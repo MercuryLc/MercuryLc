@@ -11,6 +11,8 @@ In addition, there are some other points of interest such as synchronous perform
 
 🍀 Narration: *Life always offers a second chance, it's called tomorrow. Therefore, don't give up. Luck will come.*
 
+
+
 <!-- - 📫 ningli[dot]sys[at]gmail[dot]com
 
 - 🎵 ‘我在5:20睡觉13:14准时起’ -->
@@ -45,18 +47,22 @@ Other：
 <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
 
 
-<!-- ## Projects & Practical Experience
+## Projects & Practical Experience
 
-2022 - 2023, Cloud service performance anomaly detection and optimisation.
+- 2022 - 2023, Cloud service performance anomaly detection and optimisation.
 
-2021 - 2022, Cloud server performance and quality assessment and evaluation. -->
+- 2021 - 2022, Cloud server performance and quality assessment and evaluation.
 
 
-<!-- ## Publications
 
-- <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” IEEE Trans. Parallel Distributed Syst. (TPDS) 35(2): 297-309 (2024)
+## Publications
 
-- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023) -->
+- <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper.
+
+<!-- - <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” IEEE Trans. Parallel Distributed Syst. (TPDS) 35(2): 297-309 (2024) Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper. -->
+
+
+- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023) 
 
 <!-- - 一种多样化算力的统一性能建模和适应性变更方法及装置,2021
 
@@ -79,6 +85,9 @@ Other：
 </p> -->
 
 
+# The literary heart that has not been killed.
+
+- 无人扶我青云志，我自踏雪至山巅。
 
 
 
