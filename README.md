@@ -7,10 +7,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 😺 My research interest is software engineering, especially performance anomaly detection, diagnosis and repair.
 In addition, there are some other points of interest such as synchronous performance optimisation, memory performance evaluation, and microarchitecture performance analysis.
 
-💞️ [System Optimization Lab ECNU (SOLE)](https://solecnugit.github.io/) / [Ning Li](https://solelab.tech/members/ning-li.html)
+💞️ [System Optimization Lab ECNU (SOLE)](https://solecnugit.github.io/) / [Ning Li](https://solelab.tech/members/ning-li.html) 
 
 🍀 Narration: *Life always offers a second chance, it's called tomorrow. Therefore, don't give up. Luck will come.*
 
+<!-- https://scholar.google.com/citations?user=YtMJrLgAAAAJ&hl=en -->
 
 
 <!-- - 📫 ningli[dot]sys[at]gmail[dot]com
@@ -90,6 +91,8 @@ Other：
 - 无人扶我青云志，我自踏雪至山巅。
 
 - 心有所念，此念填山海。
+
+- 
 
 
 
