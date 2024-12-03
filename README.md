@@ -14,9 +14,10 @@ In addition, there are some other points of interest such as synchronous perform
 
 [Google Scholar](https://scholar.google.com/citations?user=YtMJrLgAAAAJ&hl=en)
 
+
 <!-- - 📫 ningli[dot]sys[at]gmail[dot]com
 
-- 🎵 ‘我在5:20睡觉13:14准时起’ -->
+
 <!-- - 友链：- [LokinLi](https://lokinli.gitee.io/blog/) -->
 
 ## Technical Skills
@@ -93,6 +94,9 @@ Other：
 - 心有所念，此念填山海。
 
 - 江南花已凋落，怎堪再斟酌。
+
+- 🎵 ‘我在5:20睡觉13:14准时起’
+
 
 
 
