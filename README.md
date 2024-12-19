@@ -49,6 +49,8 @@ Other：
 <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
 
 
+## Insightful Attempts
+
 ## Projects & Practical Experience
 
 - 2022 - 2023, Cloud service performance anomaly detection and optimisation.
