@@ -9,7 +9,8 @@ In addition, there are some other points of interest such as synchronous perform
 
 💞️ [System Optimization Lab ECNU (SOLE)](https://solecnugit.github.io/) / [Ning Li](https://solelab.tech/members/ning-li.html)  
 
-🍀 Narration: *Life always offers a second chance, it's called tomorrow. Therefore, don't give up. Luck will come.*
+🍀 Narration: **Life always offers a second chance, it's called tomorrow. Therefore, don't give up. Luck will come.**
+
 
 
 [Google Scholar](https://scholar.google.com/citations?user=YtMJrLgAAAAJ&hl=en)
@@ -50,6 +51,8 @@ Other：
 
 
 ## Insightful Attempts
+
+
 
 ## Projects & Practical Experience
 
