@@ -9,17 +9,81 @@ In addition, there are some other points of interest such as synchronous perform
 
 💞️ [System Optimization Lab ECNU (SOLE)](https://solecnugit.github.io/) / [Ning Li](https://solelab.tech/members/ning-li.html)  
 
+🎓 [Google Scholar](https://scholar.google.com/citations?user=YtMJrLgAAAAJ&hl=en)
+
 🍀 Narration: **Life always offers a second chance, it's called tomorrow. Therefore, don't give up. Luck will come.**
 
 
-
-[Google Scholar](https://scholar.google.com/citations?user=YtMJrLgAAAAJ&hl=en)
 
 
 <!-- - 📫 ningli[dot]sys[at]gmail[dot]com
 
 
 <!-- - 友链：- [LokinLi](https://lokinli.gitee.io/blog/) -->
+
+
+## Internship and Work Experience
+
+2022-2023: Tencent
+
+## Insightful Attempts
+
+
+
+## Projects & Practical Experience
+
+
+- 2024 - 2025, Anomaly Detection and Diagnosis of Operating System Synchronization Performance.
+
+- 2022 - 2023, Cloud Service Performance Anomaly Detection and Optimisation.
+
+- 2021 - 2022, Cloud Server Performance and Quality Assessment and Evaluation.
+
+- 2021 - 2022, Microarchitecture Performance Analysis and Computational Performance Modeling.
+
+
+
+
+
+## Publications & Patents
+
+- <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper.
+
+<!-- - <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” IEEE Trans. Parallel Distributed Syst. (TPDS) 35(2): 297-309 (2024) Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper. -->
+
+
+- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023) 
+
+- Chinese Patent: A Method and Apparatus for Unified Performance Modeling and Adaptive Modification of Diverse Computing Resources
+
+- Chinese Patent: A Memory Testing Method, Apparatus, Electronic Device, and Storage Medium
+
+- Chinese Patent: A Method, System, and Application for Hardware Topology Discovery Based on Kernel Instrumentation
+
+
+
+
+
+<!-- - 一种多样化算力的统一性能建模和适应性变更方法及装置,2021
+
+- 内存测试方法、装置、电子设备及存储介质,2022
+
+- 一种支持多种编程语言环境的热点符号解析方法、系统及应用,2023 -->
+
+<!-- ## Education
+
+2021 - now, East China Normal University, Software Engineering (Data Science and Engineering)
+
+2017 - 2021, Shandong University of Technology, Software Engineering -->
+
+
+
+<!-- 
+<p align="left" >  
+<img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
+  </a>
+</p> -->
+
 
 ## Technical Skills
 
@@ -50,49 +114,12 @@ Other：
 <!-- ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) -->
 
 
-## Insightful Attempts
 
 
 
-## Projects & Practical Experience
+## Others
 
-- 2022 - 2023, Cloud service performance anomaly detection and optimisation.
-
-- 2021 - 2022, Cloud server performance and quality assessment and evaluation.
-
-
-
-## Publications
-
-- <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper.
-
-<!-- - <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” IEEE Trans. Parallel Distributed Syst. (TPDS) 35(2): 297-309 (2024) Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper. -->
-
-
-- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023) 
-
-<!-- - 一种多样化算力的统一性能建模和适应性变更方法及装置,2021
-
-- 内存测试方法、装置、电子设备及存储介质,2022
-
-- 一种支持多种编程语言环境的热点符号解析方法、系统及应用,2023 -->
-
-<!-- ## Education
-
-2021 - now, East China Normal University, Software Engineering (Data Science and Engineering)
-
-2017 - 2021, Shandong University of Technology, Software Engineering -->
-
-
-
-<!-- 
-<p align="left" >  
-<img src="https://github-readme-stats.vercel.app/api?username=mercurylc&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
-  </a>
-</p> -->
-
-
-# The literary heart that has not been killed.
+The literary heart that has not been killed.
 
 - 无人扶我青云志，我自踏雪至山巅。
 
