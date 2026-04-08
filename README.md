@@ -47,28 +47,41 @@ In addition, there are some other points of interest such as synchronous perform
 
 ## Publications & Patents
 
-- <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper.
+- ***Ning Li***, Jianmei Guo, Bo Huang, Yuyang Li, Yilei Zhang, Chengdong Li, Wenxin Huang. TCSA: Efficient Localization of BusyWait Synchronization Bugs for Latency-Critical Applications. IEEE Transactions on Parallel and Distributed Systems (TPDS). 2024;35(2):297-309.
 
-<!-- - <u>N. Li</u>, J. Guo, B. Huang, Y. Li, Y. Zhang, C. Li, and W. Huang, “TCSA: Efficient Localization of Busy-Wait Synchronization Bugs for Latency-Critical Applications,” IEEE Trans. Parallel Distributed Syst. (TPDS) 35(2): 297-309 (2024) Accepted by IEEE Trans. Parallel Distributed Syst. 35(2) 297-309 (2024) (CCF-A) and 26th ACM SIGOPS ChinaSys Spotlight Paper. -->
+- Yuyang Li, ***Ning Li***, Yilei Zhang, Jianmei Guo, Bo Huang, Mengbang Xing, Wenxin Huang. Hmem: A Holistic Memory Performance Metric for Cloud Computing. BenchCouncil International Symposium on Benchmarking, Measuring and Optimization (Bench). 2023:171-187.
 
+- Tongyu Liu, Huanlun Cheng, Erqi E, ***Ning Li***, Haoyu Liao, Bo Huang, Jianmei Guo. Fragmentation Harmonization for the Arm Ecosystem: A Unified Method to Measure Memory Bandwidth via Network-on-Chip. ACM Transactions on Architecture and Code Optimization (TACO). 2025:1-24.
 
-- Y. Li, <u>N. Li</u>, Y. Zhang, J. Guo, B. Huang, X. Meng, and W. Huang, “Hmem: A Holistic Memory Performance Metric for Cloud Computing”. In International Symposium on Benchmarking, Measuring and Optimization. Singapore: Springer Nature Singapore. (pp. 171-187) (2023) 
+- Wenlong Mu, ***Ning Li***, Zimo Ji, Jianmei Guo, Bo Huang. FlexInstru: A Flexible Instrumentation Framework for Long-Running Workloads. Journal of Systems and Software (JSS). 2026;234:112739.
 
-- Chinese Patent: A Method and Apparatus for Unified Performance Modeling and Adaptive Modification of Diverse Computing Resources
+- Tong Yang, ***Ning Li***, Bo Huang, Jianmei Guo. Hotspot Identification in Large Model Training: Critical Path Analysis with Cross-Thread Dependency Awareness. Big Data Research. 2026:1-35.
+  <!-- 原中文题目：大模型训练热点识别：跨线程依赖感知的关键路径分析。 -->
 
-- Chinese Patent: A Memory Testing Method, Apparatus, Electronic Device, and Storage Medium
+- Chinese Patent: A Method and Apparatus for Unified Performance Modeling and Adaptive Modification of Diverse Computing Resources.
+  <!-- 中文：一种多样化算力的统一性能建模和适应性变更方法及装置。 -->
 
-- Chinese Patent: A Method, System, and Application for Hardware Topology Discovery Based on Kernel Instrumentation
+- Chinese Patent: A Framework, System, and Apparatus for Continuous System Fault Diagnosis.
+  <!-- 中文：一种系统故障持续诊断框架、系统和装置。 -->
 
+- Chinese Patent: A Method, System, and Application for Hardware Topology Discovery Based on Kernel Instrumentation.
+  <!-- 中文：一种基于内核插桩的硬件拓扑结构探测方法、系统及应用。 -->
 
+- Chinese Patent: A Method, System, and Application for Hot Symbol Resolution Supporting Multiple Programming Language Environments.
+  <!-- 中文：一种支持多种编程语言环境的热点符号解析方法、系统及应用。 -->
 
+- Chinese Patent: A Method, System, and Application for Detecting Simpson's Paradox in Cloud Application Change Scenarios.
+  <!-- 中文：一种面向云应用变更场景中辛普森悖论现象的检测方法、系统及应用。 -->
 
+- Chinese Patent: An Efficient Automatic Tuning Method, System, and Application for Dynamic-Shape Model Inference.
+  <!-- 中文：一种针对动态形状模型推理的高效自动调优方法、系统及应用。 -->
 
-<!-- - 一种多样化算力的统一性能建模和适应性变更方法及装置,2021
+- Chinese Patent: A Method, System, and Application for Identifying Model Training Hotspots via Cross-Thread Dependency and Multi-Critical-Path Analysis.
+  <!-- 中文：一种结合跨线程依赖与多关键路径分析的模型训练热点识别方法、系统及应用。 -->
 
-- 内存测试方法、装置、电子设备及存储介质,2022
+- Chinese Patent: A Memory Testing Method, Apparatus, Electronic Device, and Storage Medium.
+  <!-- 中文：内存测试方法、装置、电子设备及存储介质。 -->
 
-- 一种支持多种编程语言环境的热点符号解析方法、系统及应用,2023 -->
 
 <!-- ## Education
 
